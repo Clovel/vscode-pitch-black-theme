@@ -60,6 +60,7 @@
     "badge.foreground": "#fff",
     "statusBarItem.remoteBackground": "#ff0",
     "statusBarItem.remoteForeground": "#000",
+    "editorGroup.dropBackground": "#fff3",
 
     // Misc
     "statusBar.foreground": "#ccc",

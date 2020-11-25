@@ -58,6 +58,8 @@
     "dropdown.border": "#ff0",
     "badge.background": "#FF3333",
     "badge.foreground": "#fff",
+    "statusBarItem.remoteBackground": "#ff0",
+    "statusBarItem.remoteForeground": "#000",
 
     // Misc
     "statusBar.foreground": "#ccc",

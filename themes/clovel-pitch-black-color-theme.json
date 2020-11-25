@@ -4,7 +4,7 @@
 // https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json
 
 {
-  "name": "Pitch Black",
+  "name": "Clovel's Pitch Black",
   "colors": {
     // Basic text color
     // #d4d4d4 is used rather than #fff because it fits better with the other syntax colors, all of which are taken from the vscode dark plus theme.
@@ -20,7 +20,7 @@
     "tab.activeBackground": "#000",
     "tab.unfocusedActiveBorder": "#000",
     "tab.inactiveBackground": "#000",
-    "tab.activeBorder": "#000",
+    "tab.activeBorder": "#ff0",
     "tab.border": "#000",
     "editorGroupHeader.tabsBorder": "#000",
 
@@ -49,11 +49,18 @@
     "editor.background": "#000",
     "statusBar.background": "#000",
     "editorGroup.emptyBackground": "#000",
-    "editorGroup.dropBackground": "#000",
     "editorGroupHeader.noTabsBackground": "#000",
     "editorGroupHeader.tabsBackground": "#000",
     "activityBarBadge.background": "#000",
     "activityBar.background": "#000",
+    "dropdown.background": "#000",
+    "dropdown.listBackground": "#000",
+    "dropdown.border": "#ff0",
+    "badge.background": "#FF3333",
+    "badge.foreground": "#fff",
+    "statusBarItem.remoteBackground": "#ff0",
+    "statusBarItem.remoteForeground": "#000",
+    "editorGroup.dropBackground": "#fff3",
 
     // Misc
     "statusBar.foreground": "#ccc",

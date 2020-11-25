@@ -20,7 +20,7 @@
     "tab.activeBackground": "#000",
     "tab.unfocusedActiveBorder": "#000",
     "tab.inactiveBackground": "#000",
-    "tab.activeBorder": "#000",
+    "tab.activeBorder": "#ff0",
     "tab.border": "#000",
     "editorGroupHeader.tabsBorder": "#000",
 

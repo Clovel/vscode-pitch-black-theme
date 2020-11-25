@@ -49,11 +49,13 @@
     "editor.background": "#000",
     "statusBar.background": "#000",
     "editorGroup.emptyBackground": "#000",
-    "editorGroup.dropBackground": "#000",
     "editorGroupHeader.noTabsBackground": "#000",
     "editorGroupHeader.tabsBackground": "#000",
     "activityBarBadge.background": "#000",
     "activityBar.background": "#000",
+    "dropdown.background": "#000",
+    "dropdown.listBackground": "#000",
+    "dropdown.border": "#ff0",
 
     // Misc
     "statusBar.foreground": "#ccc",

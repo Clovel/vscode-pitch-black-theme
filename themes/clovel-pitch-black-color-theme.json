@@ -4,7 +4,7 @@
 // https://github.com/Microsoft/vscode/blob/master/extensions/theme-defaults/themes/dark_plus.json
 
 {
-  "name": "Pitch Black",
+  "name": "Clovel's Pitch Black",
   "colors": {
     // Basic text color
     // #d4d4d4 is used rather than #fff because it fits better with the other syntax colors, all of which are taken from the vscode dark plus theme.
